@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Erli Wind-andersen
+N:Wind-andersen;Erli;;;
+item1.EMAIL;TYPE=INTERNET:esw5@njit.edu
+item1.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
