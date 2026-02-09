@@ -6,7 +6,7 @@ subtitle: <a href='https://www.clementelab.org/'>Clemente Lab</a>, Icahn School 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: erli_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Clemente Lab</p>
