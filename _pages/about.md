@@ -34,12 +34,14 @@ I was co-advised by [Prof. Peter Petropoulos](https://web.njit.edu/~peterp/) and
 
 **Research Interests:** Numerical Analysis, Scientific Computing, Integral Equations, Microbiome Data Analysis
 
----
-
-*The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.*
-— John Tukey
-
----
+<div class="about-quote">
+  <hr>
+  <p>
+    <em>The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data.</em><br>
+    — John Tukey
+  </p>
+  <hr>
+</div>
 
 **Contact**
 
